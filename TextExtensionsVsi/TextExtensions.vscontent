@@ -1,0 +1,10 @@
+<VSContent xmlns="http://schemas.microsoft.com/developer/vscontent/2005"> 
+    <Content>
+        <FileName>TextExtensions.Addin</FileName>
+        <FileName>TextExtensions.dll</FileName>
+        <DisplayName>Text Extensions Add-in</DisplayName>
+        <Description>Extensions for advanced text operations in Visual Studio.</Description>
+        <FileContentType>Addin</FileContentType>
+        <ContentVersion>2.0</ContentVersion>
+    </Content>
+</VSContent>

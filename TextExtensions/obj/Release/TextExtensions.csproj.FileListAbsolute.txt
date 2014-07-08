@@ -1,0 +1,15 @@
+C:\Projects\HiTech\Plugins\TextExtensions\TextExtensions\bin\Release\TextExtensions.dll
+C:\Projects\HiTech\Plugins\TextExtensions\TextExtensions\bin\Release\TextExtensions.xml
+C:\Projects\HiTech\Plugins\TextExtensions\TextExtensions\obj\Release\ResolveAssemblyReference.cache
+C:\Projects\HiTech\Plugins\TextExtensions\TextExtensions\obj\Release\TextExtensions.csproj.ResolveComReference.cache
+C:\Projects\HiTech\Plugins\TextExtensions\TextExtensions\obj\Release\TextExtensions.dll
+C:\Projects\TextExtensions\TextExtensions\TextExtensions\bin\Release\TextExtensions.dll
+C:\Projects\TextExtensions\TextExtensions\TextExtensions\bin\Release\TextExtensions.xml
+C:\Projects\TextExtensions\TextExtensions\TextExtensions\obj\Release\TextExtensions.csprojResolveAssemblyReference.cache
+C:\Projects\TextExtensions\TextExtensions\TextExtensions\obj\Release\TextExtensions.csproj.ResolveComReference.cache
+C:\Projects\TextExtensions\TextExtensions\TextExtensions\obj\Release\TextExtensions.dll
+C:\Users\rmauldin\Downloads\TextExtensions\TextExtensions\TextExtensions\bin\Release\TextExtensions.dll
+C:\Users\rmauldin\Downloads\TextExtensions\TextExtensions\TextExtensions\bin\Release\TextExtensions.xml
+C:\Users\rmauldin\Downloads\TextExtensions\TextExtensions\TextExtensions\obj\Release\TextExtensions.csprojResolveAssemblyReference.cache
+C:\Users\rmauldin\Downloads\TextExtensions\TextExtensions\TextExtensions\obj\Release\TextExtensions.csproj.ResolveComReference.cache
+C:\Users\rmauldin\Downloads\TextExtensions\TextExtensions\TextExtensions\obj\Release\TextExtensions.dll

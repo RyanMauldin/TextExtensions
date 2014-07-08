@@ -1,0 +1,7 @@
+C:\Projects\HiTech\Plugins\TextExtensions\TextExtensions\bin\Debug\TextExtensions.dll
+C:\Projects\HiTech\Plugins\TextExtensions\TextExtensions\bin\Debug\TextExtensions.pdb
+C:\Projects\HiTech\Plugins\TextExtensions\TextExtensions\bin\Debug\TextExtensions.xml
+C:\Projects\HiTech\Plugins\TextExtensions\TextExtensions\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\HiTech\Plugins\TextExtensions\TextExtensions\obj\Debug\TextExtensions.csproj.ResolveComReference.cache
+C:\Projects\HiTech\Plugins\TextExtensions\TextExtensions\obj\Debug\TextExtensions.dll
+C:\Projects\HiTech\Plugins\TextExtensions\TextExtensions\obj\Debug\TextExtensions.pdb
